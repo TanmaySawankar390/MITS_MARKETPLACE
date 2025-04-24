@@ -2,7 +2,7 @@
 
 ## Overview
 
-MITS Marketplace is a dedicated platform for MIT students to buy, sell, and exchange educational resources, dormitory essentials, and campus-related items. Our mission is to create a sustainable, community-driven ecosystem that helps students save money while reducing waste on campus.
+MITS Marketplace is a dedicated platform for MITS Gwalior students to buy, sell, and exchange educational resources, dormitory essentials, and campus-related items. Our mission is to create a sustainable, community-driven ecosystem that helps students save money while reducing waste on campus.
 
 ## Features
 
@@ -21,8 +21,8 @@ MITS Marketplace is a dedicated platform for MIT students to buy, sell, and exch
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Authentication**: JWT, MIT Kerberos integration
-- **Storage**: AWS S3 for image uploads
-- **Deployment**: AWS/Heroku
+- **Storage**: Local for image uploads (will shift it to MongoDB)
+- **Deployment**: Netlify
 
 ## Getting Started
 
